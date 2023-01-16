@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "22100EFA-9816-43EA-AE43-8ABD7FE5C7B8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA2E6DBD-2E48-4531-AB89-4391DF5CFB0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShopApp/Devices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "EA2E6DBD-2E48-4531-AB89-4391DF5CFB0B - a5bc5f02bbeeb7f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopApp.Products.deinit"
+                  moduleName = "ShopApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alastar/Desktop/Swift/APP/ShopApp/ShopApp/Devices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3"
+                  endingLineNumber = "3"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "EA2E6DBD-2E48-4531-AB89-4391DF5CFB0B - 2b863bb7252aaa3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShopApp.Products.__deallocating_deinit"
+                  moduleName = "ShopApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alastar/Desktop/Swift/APP/ShopApp/ShopApp/Devices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
